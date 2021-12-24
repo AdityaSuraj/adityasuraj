@@ -4,6 +4,10 @@
 print("Hello World")!
 </h1>
 
+<a target="_blank">
+  <img align="right" height="400" width="400" alt="GIF" src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47fp47sshw4nc38mipmoxgnnjhfslpzezc0fn0pfsr&rid=giphy.gif&ct=g">
+</a>
+
 - :briefcase: I'm currently working as freelancer
 - :white_check_mark: Completed BCA from IGNOU in 2021
 - :book: Pursuing B.Sc. in Programming And Data Science from IIT Madras
@@ -59,3 +63,8 @@ print("Hello World")!
 - [Eshe Farms](https://eshefarms.com/) wordpress website
 - [Moto Url](http://motourl.com/) url sortner created using laravel
 - [Minhaj Publication India](minhajpublicationsindia.com) wordpress ecommerce website
+
+<h1>
+  Connect With Me
+</h1>
+
