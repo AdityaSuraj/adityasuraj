@@ -1,2 +1,2 @@
 
-!(asset/canva_1.gif)
+![alt gif](/assets/canva_1.gif)
