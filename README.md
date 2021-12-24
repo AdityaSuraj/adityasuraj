@@ -1,2 +1,1 @@
-# adityasuraj.github.io
-Portfolio website
+# Aditya Kummar
