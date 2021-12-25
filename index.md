@@ -17,7 +17,7 @@ print("Hello World")!
 
 <h1>
   Hobbies
-</h2>
+</h1>
   
 :book:Reading,:headphones: listening music,:computer: coding,:electric_plug: playing with iOT,:video_game: Gaming,:collision: Boxing  
 
