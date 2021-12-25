@@ -4,14 +4,16 @@
 print("Hello World")!
 </h1>
 
-<a target="_blank">
-  <img align="right" height="400" width="400" alt="GIF" src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47fp47sshw4nc38mipmoxgnnjhfslpzezc0fn0pfsr&rid=giphy.gif&ct=g">
-</a>
+
 
 - :briefcase: I'm currently working as freelancer
 - :white_check_mark: Completed BCA from IGNOU in 2021
 - :book: Pursuing B.Sc. in Programming And Data Science from IIT Madras
 - :house: From a small village in Bihar,India
+
+<a target="_blank">
+  <img align="right" height="400" width="400" alt="GIF" src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47fp47sshw4nc38mipmoxgnnjhfslpzezc0fn0pfsr&rid=giphy.gif&ct=g">
+</a>
 
 <h1>
   Hobbies
