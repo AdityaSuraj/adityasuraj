@@ -88,3 +88,5 @@ print("Hello World")!
     <img height="46" width="46" src="/assets/linkedin.png"/> 
   </a>
 </p>
+
+![Aditya Suraj](/assets/canva_2.gif)
