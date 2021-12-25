@@ -4,10 +4,16 @@
 print("Hello World")!
 </h1>
 
+
+
 - :briefcase: I'm currently working as freelancer
 - :white_check_mark: Completed BCA from IGNOU in 2021
 - :book: Pursuing B.Sc. in Programming And Data Science from IIT Madras
 - :house: From a small village in Bihar,India
+
+<a target="_blank">
+  <img align="right" height="400" width="400" alt="GIF" src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47fp47sshw4nc38mipmoxgnnjhfslpzezc0fn0pfsr&rid=giphy.gif&ct=g">
+</a>
 
 <h1>
   Hobbies
@@ -59,3 +65,19 @@ print("Hello World")!
 - [Eshe Farms](https://eshefarms.com/) wordpress website
 - [Moto Url](http://motourl.com/) url sortner created using laravel
 - [Minhaj Publication India](minhajpublicationsindia.com) wordpress ecommerce website
+
+<h1>
+  Connect With Me
+</h1>
+
+<p align="center">
+  <a href="https://twitter.com/AdityaSuraj03"> 
+    <img height="46" width="46" src="/assets/twitter-logo.png"/> 
+  </a>
+  <a href="https://t.me/adityasuraj507"> 
+    <img height="46" width="46" src="/assets/telegram.png"/> 
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-kumar-27a054162"> 
+    <img height="46" width="46" src="/assets/linkedin.png"/> 
+  </a>
+</p>
