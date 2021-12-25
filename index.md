@@ -26,10 +26,12 @@ print("Hello World")!
   Experience
 </h1>
 
-- Aibeet System Pvt. Ltd.
-- [Bridge2Business](https://bridge2business.in/) worked around 4 months during lockdown 2020
-- [Cybonetic Technologies Pvt. Ltd.](https://cybonetic.com) worked around 1 year 4 months
-- [Taquino India Pvt. Ltd.](https://taquino.in) working with company as freelancer
+<ul>
+  <li>Aibeet System Pvt. Ltd.</li>
+  <li>[Bridge2Business](https://bridge2business.in/) worked around 4 months during lockdown 2020</li>
+  <li>[Cybonetic Technologies Pvt. Ltd.](https://cybonetic.com) worked around 1 year 4 months</li>
+  <li>[Taquino India Pvt. Ltd.](https://taquino.in) working with company as freelancer</li>
+</ul>
 >Total Experience of 2 years
 
 
@@ -37,20 +39,27 @@ print("Hello World")!
   Projects
 </h1>
 
-- [Trove Learning](https://play.google.com/store/apps/details?id=com.trove.app)
-  - Technology Stack
-    - React Native 
-    - Laravel for Backend
-  - Functionality
-     - Live Classes
-     - Assignment submission 
-     - Online Quiz
-     - Doubts
-     - Recorded Classed
-     - PDFs
-     - Homework Submission and evaluation
-     - Support multiple schools
-     - Attendence
+<ul>
+  <li>[Trove Learning](https://play.google.com/store/apps/details?id=com.trove.app)</li>
+    <ul>
+      <li>
+        - Technology Stack<br/>
+          - React Native <br/>
+          - Laravel for Backend<br/>
+      </li>
+      <li>
+      - Functionality
+         - Live Classes<br/>
+         - Assignment submission <br/>
+         - Online Quiz<br/>
+         - Doubts<br/>
+         - Recorded Classed<br/>
+         - PDFs<br/>
+         - Homework Submission and evaluation<br/>
+         - Support multiple schools<br/>
+         - Attendence<br/>
+      </li>
+    </ul>
 - [Green Cabs](https://play.google.com/store/apps/details?id=com.cybonetic.greencabs&hl=en_IN&gl=US) cab booking app like ola created in flutter
 - [Dr. Ratan Prakash](https://play.google.com/store/apps/details?id=com.cybonetic.cdrp&hl=en_IN&gl=US) online doctor appointment booking app created in flutter
 - [Litti Chokha](https://play.google.com/store/apps/details?id=com.cybonetic.littichokha&hl=en_IN&gl=US) online fast food booking app created in flutter
@@ -65,6 +74,8 @@ print("Hello World")!
 - [Eshe Farms](https://eshefarms.com/) wordpress website
 - [Moto Url](http://motourl.com/) url sortner created using laravel
 - [Minhaj Publication India](minhajpublicationsindia.com) wordpress ecommerce website
+</ul>
+
 
 <h1>
   Connect With Me
