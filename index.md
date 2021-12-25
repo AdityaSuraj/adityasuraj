@@ -6,20 +6,20 @@ print("Hello World")!
 
 
 
-- :briefcase: I'm currently working as freelancer
-- :white_check_mark: Completed BCA from IGNOU in 2021
-- :book: Pursuing B.Sc. in Programming And Data Science from IIT Madras
-- :house: From a small village in Bihar,India
+- 💼 I'm currently working as freelancer
+- ✔️ Completed BCA from IGNOU in 2021
+- 📖 Pursuing B.Sc. in Programming And Data Science from IIT Madras
+- 🏠 From a small village in Bihar,India
 
 <a target="_blank">
-  <img align="right" height="400" width="400" alt="GIF" src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47fp47sshw4nc38mipmoxgnnjhfslpzezc0fn0pfsr&rid=giphy.gif&ct=g">
+  <img align="center" height="400" width="400" alt="GIF" src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47fp47sshw4nc38mipmoxgnnjhfslpzezc0fn0pfsr&rid=giphy.gif&ct=g">
 </a>
 
 <h1>
   Hobbies
 </h1>
   
-:book:Reading,:headphones: listening music,:computer: coding,:electric_plug: playing with iOT,:video_game: Gaming,:collision: Boxing  
+📖Reading,🎧 listening music,❤️ coding,🔌 playing with iOT,🎮 Gaming,💥 Boxing  
 
 
 <h1>
@@ -28,9 +28,9 @@ print("Hello World")!
 
 <ul>
   <li>Aibeet System Pvt. Ltd.</li>
-  <li>[Bridge2Business](https://bridge2business.in/) worked around 4 months during lockdown 2020</li>
-  <li>[Cybonetic Technologies Pvt. Ltd.](https://cybonetic.com) worked around 1 year 4 months</li>
-  <li>[Taquino India Pvt. Ltd.](https://taquino.in) working with company as freelancer</li>
+  <li><a href="https://bridge2business.in/">Bridge2Business</a> worked around 4 months during lockdown 2020</li>
+  <li><a href="https://cybonetic.com">Cybonetic Technologies Pvt. Ltd.</a> worked around 1 year 4 months</li>
+  <li><a href="https://taquino.in">Taquino India Pvt. Ltd.</a> working with company as freelancer</li>
 </ul>
 >Total Experience of 2 years
 
@@ -40,15 +40,15 @@ print("Hello World")!
 </h1>
 
 <ul>
-  <li>[Trove Learning](https://play.google.com/store/apps/details?id=com.trove.app)</li>
+  <li><a href="https://play.google.com/store/apps/details?id=com.trove.app">Trove Learning</a></li>
     <ul>
       <li>
-        - Technology Stack<br/>
+        - <b>Technology Stack<b><br/>
           - React Native <br/>
           - Laravel for Backend<br/>
       </li>
       <li>
-      - Functionality
+      -<b> Functionality<b><br/>
          - Live Classes<br/>
          - Assignment submission <br/>
          - Online Quiz<br/>
@@ -60,20 +60,20 @@ print("Hello World")!
          - Attendence<br/>
       </li>
     </ul>
-- [Green Cabs](https://play.google.com/store/apps/details?id=com.cybonetic.greencabs&hl=en_IN&gl=US) cab booking app like ola created in flutter
-- [Dr. Ratan Prakash](https://play.google.com/store/apps/details?id=com.cybonetic.cdrp&hl=en_IN&gl=US) online doctor appointment booking app created in flutter
-- [Litti Chokha](https://play.google.com/store/apps/details?id=com.cybonetic.littichokha&hl=en_IN&gl=US) online fast food booking app created in flutter
-- [Meta Finance Fx](http://metafinancefx.in/) wordpress based MLM website where I created MLM wordpress plugin
-- [Human Lok Seva Samiti Trust](humanloksevasamiti.org/) website created in wordpress
-- [Taquino India Pvt. Ltd.](https://taquino.in/) company portfolio website created in laravel
-- [Coaching Detail](https://coachingdetail.com/) coaching comparing website created in laravel
-- [Education Tweet](https://etweet.coachingdetail.com/) twitter clone for students only created in React.js
-- [PR Bio Classes](https://play.google.com/store/apps/details?id=com.prbiology.app&hl=en_IN&gl=US) app for teacher to conduct classes online during lockdown
-- [Drs Zone](https://play.google.com/store/apps/details?id=com.cybonetic.drappointment&hl=en_IN&gl=US) app for appointmet booking with any of the doctor listed on platform
-- [CDlive](http://cdlive.in) news website created in core php
-- [Eshe Farms](https://eshefarms.com/) wordpress website
-- [Moto Url](http://motourl.com/) url sortner created using laravel
-- [Minhaj Publication India](minhajpublicationsindia.com) wordpress ecommerce website
+<li><a href="https://play.google.com/store/apps/details?id=com.cybonetic.greencabs&hl=en_IN&gl=US">Green Cabs</a> cab booking app like ola created in flutter</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.cybonetic.cdrp&hl=en_IN&gl=US">Dr. Ratan Prakash</a> online doctor appointment booking app created in flutter</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.cybonetic.littichokha&hl=en_IN&gl=US">Litti Chokha</a> online fast food booking app created in flutter</li>
+<li><a href="http://metafinancefx.in/">Meta Finance Fx</a> wordpress based MLM website where I created MLM wordpress plugin</li>
+<li><a href="httphumanloksevasamiti.org/">Human Lok Seva Samiti Trust</a> website created in wordpress</li>
+<li><a href="https://taquino.in/">Taquino India Pvt. Ltd.</a> company portfolio website created in laravel</li>
+<li><a href="https://coachingdetail.com/">Coaching Detail</a> coaching comparing website created in laravel</li>
+<li><a href="https://etweet.coachingdetail.com/">Education Tweet</a> twitter clone for students only created in React.js</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.prbiology.app&hl=en_IN&gl=US">PR Bio Classes</a> app for teacher to conduct classes online during lockdown</li>
+<li><a href="https://play.google.com/store/apps/details?id=com.cybonetic.drappointment&hl=en_IN&gl=US">Drs Zone</a> app for appointmet booking with any of the doctor listed on platform</li>
+<li><a href="http://cdlive.in">CDlive</a> news website created in core php</li>
+<li><a href="https://eshefarms.com/">Eshe Farms</a> wordpress website</li>
+<li><a href="http://motourl.com/">Moto Url</a> url sortner created using laravel</li>
+<li><a href="minhajpublicationsindia.com">Minhaj Publication India</a> wordpress ecommerce website</li>
 </ul>
 
 
