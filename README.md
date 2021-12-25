@@ -70,3 +70,14 @@ print("Hello World")!
   Connect With Me
 </h1>
 
+<p align="center">
+  <a href="https://twitter.com/AdityaSuraj03"> 
+    <img height="46" width="46" src="/assets/twitter-logo.png"/> 
+  </a>
+  <a href="https://t.me/adityasuraj507"> 
+    <img height="46" width="46" src="/assets/telegram.png"/> 
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-kumar-27a054162"> 
+    <img height="46" width="46" src="/assets/linkedin.png"/> 
+  </a>
+</p>
