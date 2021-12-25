@@ -11,10 +11,6 @@ print("Hello World")!
 - 📖 Pursuing B.Sc. in Programming And Data Science from IIT Madras
 - 🏠 From a small village in Bihar,India
 
-<a target="_blank">
-  <img align="center" height="400" width="400" alt="GIF" src="https://media4.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47fp47sshw4nc38mipmoxgnnjhfslpzezc0fn0pfsr&rid=giphy.gif&ct=g">
-</a>
-
 <h1>
   Hobbies
 </h1>
@@ -32,7 +28,7 @@ print("Hello World")!
   <li><a href="https://cybonetic.com">Cybonetic Technologies Pvt. Ltd.</a> worked around 1 year 4 months</li>
   <li><a href="https://taquino.in">Taquino India Pvt. Ltd.</a> working with company as freelancer</li>
 </ul>
->Total Experience of 2 years
+<b><i>Total Experience of 2 years</i></b>
 
 
 <h1>
@@ -43,12 +39,12 @@ print("Hello World")!
   <li><a href="https://play.google.com/store/apps/details?id=com.trove.app">Trove Learning</a></li>
     <ul>
       <li>
-        - <b>Technology Stack<b><br/>
+        - <b>Technology Stack</b><br/>
           - React Native <br/>
           - Laravel for Backend<br/>
       </li>
       <li>
-      -<b> Functionality<b><br/>
+      -<b> Functionality</b><br/>
          - Live Classes<br/>
          - Assignment submission <br/>
          - Online Quiz<br/>
