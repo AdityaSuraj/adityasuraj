@@ -81,3 +81,6 @@ print("Hello World")!
     <img height="46" width="46" src="/assets/linkedin.png"/> 
   </a>
 </p>
+
+![Image Created Using Canva](/assets/canva_2.gif)
+
