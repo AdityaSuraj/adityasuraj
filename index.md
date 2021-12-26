@@ -1,8 +1,11 @@
-
-![Aditya Suraj](/assets/canva_1.gif)
+![Thank you IITM for github student pack, I created this using Canva Pro](/assets/canva_1.gif)
 <h1 align="center">
 print("Hello World")!
 </h1>
+
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> 
+
+ <i class="devicon-labview-plain"></i>
 
 
 
