@@ -3,12 +3,6 @@
 print("Hello World")!
 </h1>
 
- <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> 
-
- <i class="devicon-labview-plain"></i>
-
-
-
 - 💼 I'm currently working as freelancer
 - ✔️ Completed BCA from IGNOU in 2021
 - 📖 Pursuing B.Sc. in Programming And Data Science from IIT Madras
