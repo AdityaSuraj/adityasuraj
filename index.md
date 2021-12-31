@@ -1,4 +1,4 @@
-![Thank you IITM for github student pack, I created this using Canva Pro](/assets/canva_1.gif)
+![Thank you IITM for github student pack, I created this using Canva Pro](/assets/canva_3.gif)
 <h1 align="center">
 print("Hello World")!
 </h1>
