@@ -1,5 +1,5 @@
 
-![Aditya Suraj](/assets/canva_1.gif)
+![Aditya Suraj](/assets/canva_3.gif)
 <h1 align="center">
 print("Hello World")!
 </h1>
