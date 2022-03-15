@@ -50,7 +50,9 @@ print("Hello World")!
      - Homework Submission and evaluation
      - Support multiple schools
      - Attendence
-- [Meta Finance Fx](http://metafinancefx.in/) wordpress based MLM website where I created MLM wordpress plugin
+- [Bucks Financial Services](https://bucksfinancial.in/) Trading information platform
+- [Uddayan Aviation Academy](http://uddayan.srilex.com) Awesome design of website
+- [Ratn Vihar](http://ratnvihar.srilex.com) Webiste designing using sass in react.js
 - [Coaching Detail](https://coachingdetail.com/) coaching comparing website created in laravel
 - [Education Tweet](https://etweet.coachingdetail.com/) twitter clone for students only created in React.js
 - [PR Bio Classes](https://play.google.com/store/apps/details?id=com.prbiology.app&hl=en_IN&gl=US) app for teacher to conduct classes online during lockdown
@@ -58,7 +60,6 @@ print("Hello World")!
 - [CDlive](http://cdlive.in) news website created in core php
 - [Eshe Farms](https://eshefarms.com/) wordpress website
 - [Moto Url](http://motourl.com/) url sortner created using laravel
-- [Minhaj Publication India](minhajpublicationsindia.com) wordpress ecommerce website
 
 <h1>
   Connect With Me
