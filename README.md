@@ -26,9 +26,9 @@ print("Hello World")!
   Experience
 </h1>
 
-- Aibeet System Pvt. Ltd.
+<!-- - Aibeet System Pvt. Ltd.
 - [Bridge2Business](https://bridge2business.in/) worked around 4 months during lockdown 2020
-- [Cybonetic Technologies Pvt. Ltd.](https://cybonetic.com) worked around 1 year 4 months
+- [Cybonetic Technologies Pvt. Ltd.](https://cybonetic.com) worked around 1 year 4 months -->
 >Total Experience of 2 years
 
 
