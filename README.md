@@ -51,10 +51,8 @@ print("Hello World")!
 - [Uddayan Aviation Academy](http://uddayan.adityasuraj.com) Awesome design of website
 - [Ratn Vihar](http://ratnvihar.codinghand.com) Webiste designing using sass in react.js
 - [PR Bio Classes](https://play.google.com/store/apps/details?id=com.prbiology.app&hl=en_IN&gl=US) app for teacher to conduct classes online during lockdown
-- [Drs Zone](https://play.google.com/store/apps/details?id=com.cybonetic.drappointment&hl=en_IN&gl=US) app for appointmet booking with any of the doctor listed on platform
 - [CDlive](http://cdlive.in) news website created in core php
 - [Eshe Farms](https://eshefarms.com/) wordpress website
-- [Moto Url](http://motourl.com/) url sortner created using laravel
 
 <h1>
   Connect With Me
