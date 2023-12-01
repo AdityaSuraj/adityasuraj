@@ -54,6 +54,10 @@ print("Hello World")!
 - [CDlive](http://cdlive.in) news website created in core php
 - [Eshe Farms](https://eshefarms.com/) wordpress website
 
+<h1>
+  Github Analytics
+</h1>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&theme=highcontrast&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 <h1>
