@@ -58,7 +58,7 @@ print("Hello World")!
   Github Analytics
 </h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&theme=highcontrast&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AdityaSuraj&theme=highcontrast&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 <h1>
   Connect With Me
