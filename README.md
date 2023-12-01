@@ -7,7 +7,7 @@ print("Hello World")!
 
 
 - :briefcase: I'm currently working as freelancer
-- :white_check_mark: Completed BCA from IGNOU in 2021
+- :white_check_mark: Completed BCA
 - :book: Pursuing B.Sc. in Programming And Data Science from IIT Madras
 - :house: From a small village in Bihar,India
 
