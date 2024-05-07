@@ -7,7 +7,6 @@ print("Hello World")!
 
 
 - :briefcase: I'm currently working as freelancer
-- :white_check_mark: Completed BCA
 - :book: Pursuing B.Sc. in Programming And Data Science from IIT Madras
 - :house: From a small village in Bihar,India
 
@@ -51,8 +50,6 @@ print("Hello World")!
 - [Uddayan Aviation Academy](http://uddayan.adityasuraj.com) Awesome design of website
 - [Ratn Vihar](http://ratnvihar.codinghand.com) Webiste designing using sass in react.js
 - [PR Bio Classes](https://play.google.com/store/apps/details?id=com.prbiology.app&hl=en_IN&gl=US) app for teacher to conduct classes online during lockdown
-- [CDlive](http://cdlive.in) news website created in core php
-- [Eshe Farms](https://eshefarms.com/) wordpress website
 
 <h1>
   Github Analytics
