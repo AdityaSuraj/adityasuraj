@@ -25,9 +25,12 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring-boot)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ### 📱 Mobile App Development
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
@@ -37,6 +40,8 @@
 ### ☁️ Cloud & Platforms
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=googlecloud)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🤖 AI & LLMs
 ![LLM](https://img.shields.io/badge/-LLM-black?style=flat-square&logo=openai)
@@ -48,9 +53,14 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 
 ---
