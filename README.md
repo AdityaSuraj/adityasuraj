@@ -1,78 +1,113 @@
-![Aditya Suraj](/assets/canva_3.gif)
-<h1 align="center">
-print("Hello World")!
-</h1>
+<p align="center">
+  <img src="/assets/canva_3.gif" alt="Aditya Suraj Banner" />
+</p>
 
-
-
-- :briefcase: I'm currently working as freelancer
-- :book: Pursuing B.Sc. in Programming And Data Science from IIT Madras
-- :house: From a small village in Bihar,India
-
-
-<h1>
-  Hobbies
-</h2>
-  
-:book:Reading,:headphones: listening music,:computer: coding,:electric_plug: playing with iOT,:video_game: Gaming,:collision: Boxing  
-
-
-<h1>
-  Experience
-</h1>
-
-<!-- - Aibeet System Pvt. Ltd.
-- [Bridge2Business](https://bridge2business.in/) worked around 4 months during lockdown 2020
-- [Cybonetic Technologies Pvt. Ltd.](https://cybonetic.com) worked around 1 year 4 months -->
->Total Experience of 3 years
-
-
-<h1>
-  Projects
-</h1>
-
-- [Trove Learning](https://play.google.com/store/apps/details?id=com.trove.app)
-  - Technology Stack
-    - React Native 
-    - Laravel for Backend
-  - Functionality
-     - Live Classes
-     - Assignment submission 
-     - Online Quiz
-     - Doubts
-     - Recorded Classed
-     - PDFs
-     - Homework Submission and evaluation
-     - Support multiple schools
-     - Attendence
-- [Bucks Financial Services](https://bucksfinancial.in/) Trading information platform
-- [Uddayan Aviation Academy](http://uddayan.adityasuraj.com) Awesome design of website
-- [Ratn Vihar](http://ratnvihar.codinghand.com) Webiste designing using sass in react.js
-- [PR Bio Classes](https://play.google.com/store/apps/details?id=com.prbiology.app&hl=en_IN&gl=US) app for teacher to conduct classes online during lockdown
-
-<h1>
-  Github Analytics
-</h1>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AdityaSuraj&theme=highcontrast&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-
-<h1>
-  Connect With Me
-</h1>
+<h1 align="center">Hi there, I'm Aditya Suraj 👋</h1>
+<h3 align="center"><code>print("Hello World!")</code></h3>
 
 <p align="center">
-  <a href="https://twitter.com/AdityaSuraj03"> 
-    <img height="46" width="46" src="/assets/twitter-logo.png"/> 
+  <img src="https://komarev.com/ghpvc/?username=AdityaSuraj&label=Profile%20views&color=0e75b6&style=flat" alt="AdityaSuraj" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 Currently working as a **Freelancer**
+- 🎓 Pursuing **B.Sc. in Programming and Data Science** from **IIT Madras**
+- 🏡 Based in **Bihar, India**
+
+---
+
+## 🔧 Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
+---
+
+## 🧠 Hobbies & Interests
+
+📚 Reading • 🎧 Music • 💻 Coding • 🔌 IoT • 🎮 Gaming • 🥊 Boxing
+
+---
+
+## 💼 Professional Experience
+
+> 💡 Total Experience: **3+ Years**
+
+- [Cybonetic Technologies Pvt. Ltd.](https://cybonetic.com) – *1 year 4 months*
+- [Bridge2Business](https://bridge2business.in/) – *4 months (during 2020 lockdown)*
+- Aibeet System Pvt. Ltd.
+
+---
+
+## 🚀 Featured Projects
+
+### [Trove Learning](https://play.google.com/store/apps/details?id=com.trove.app)
+> 🎓 An all-in-one EdTech app for schools  
+**Stack:** React Native, Laravel  
+**Features:** Live Classes, Assignments, Quizzes, Doubts, Attendance, Multi-School Support, Homework Evaluation
+
+### [Bucks Financial Services](https://bucksfinancial.in/)
+> 📊 Trading insights and market platform
+
+### [Uddayan Aviation Academy](http://uddayan.adityasuraj.com)
+> ✈️ Clean and elegant educational website
+
+### [Ratn Vihar](http://ratnvihar.codinghand.com)
+> 🏘️ Real estate site built with **React.js** and **SASS**
+
+### [PR Bio Classes](https://play.google.com/store/apps/details?id=com.prbiology.app)
+> 📱 Online class app created during COVID-19 lockdown for remote learning
+
+---
+
+## 📈 GitHub Metrics
+
+### 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdityaSuraj&theme=highcontrast&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
+### 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSuraj&layout=compact&theme=default&hide_border=true)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=AdityaSuraj&theme=flat&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## ✍️ Blog & Articles (Coming Soon)
+
+<!-- If you write blogs, connect RSS with GitHub or manually add latest entries -->
+<!--
+- [How I Built an EdTech App from Scratch](#)
+- [Why IoT is the Future](#)
+-->
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://twitter.com/AdityaSuraj03">
+    <img height="46" width="46" src="/assets/twitter-logo.png" alt="Twitter" />
   </a>
-  <a href="https://t.me/adityasuraj507"> 
-    <img height="46" width="46" src="/assets/telegram.png"/> 
+  <a href="https://t.me/adityasuraj507">
+    <img height="46" width="46" src="/assets/telegram.png" alt="Telegram" />
   </a>
-  <a href="https://www.linkedin.com/in/aditya-kumar-27a054162"> 
-    <img height="46" width="46" src="/assets/linkedin.png"/> 
+  <a href="https://www.linkedin.com/in/aditya-kumar-27a054162">
+    <img height="46" width="46" src="/assets/linkedin.png" alt="LinkedIn" />
   </a>
 </p>
 
-![Image Created Using Canva](/assets/canva_2.gif)
+---
 
+<p align="center">
+  <img src="/assets/canva_2.gif" alt="Footer Banner" />
+</p>
