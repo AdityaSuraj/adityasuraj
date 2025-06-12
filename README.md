@@ -19,11 +19,13 @@
 
 ---
 
+## 🔧 Technologies & Tools
+
 ### 🖥️ Languages & Frameworks
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Django]([https://img.shields.i](https://img.shields.i)o/badge/-Django-black?style=flat-square&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring-boot)
 
@@ -35,7 +37,6 @@
 ### ☁️ Cloud & Platforms
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=googlecloud)
-![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
 
 ### 🤖 AI & LLMs
 ![LLM](https://img.shields.io/badge/-LLM-black?style=flat-square&logo=openai)
@@ -49,6 +50,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
 
 
 ---
