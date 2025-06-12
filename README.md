@@ -19,16 +19,37 @@
 
 ---
 
-## 🔧 Technologies & Tools
-
+### 🖥️ Languages & Frameworks
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring-boot)
+
+### 📱 Mobile App Development
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
+
+### ☁️ Cloud & Platforms
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=googlecloud)
+![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
+
+### 🤖 AI & LLMs
+![LLM](https://img.shields.io/badge/-LLM-black?style=flat-square&logo=openai)
+![LLaMA](https://img.shields.io/badge/-LLaMA-black?style=flat-square&logo=meta)
+
+### 🧰 Tools & UI
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
 
 ---
 
